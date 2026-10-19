@@ -6,5 +6,9 @@
   "pembelian-baru": "Data: PO-20261019-00004 (/purchases/16), PT Sumber Tani, Bawang Merah 20 kg Rp 433.160, nota NOTA-1019-778. Satu baris saja (alur PC; tanpa Gula Pasir).",
   "supplier-detail": "PT Sumber Tani: produk teratas + riwayat pembelian.",
   "laporan-4tab": "4 klik tab, zoom Manual 1 zona.",
-  "laporan-ekspor": "Unduhan CSV: gelembung unduhan Chrome tampil di kanan atas (tidak kena crop)."
+  "laporan-ekspor": "Unduhan CSV: gelembung unduhan Chrome tampil di kanan atas (tidak kena crop).",
+  "pengguna-izin": "Dialog Ubah Siti Nur Aisyah (izin Beri diskon) → Batal, tidak disimpan.",
+  "kasir-menu-terbatas": "Login kasir1 diketik manual; sesaat layar muat sebelum /pos.",
+  "pengaturan-log": "Pengaturan hanya hover (tidak disimpan) → Log Aktivitas.",
+  "penjualan-void": "Data: INV-20261019-00012 (/sales/1515) di-VOID, alasan \"Salah input jumlah\"; stok kembali (Bawang Merah +0,75 kg, Minyak Kita +1)."
 }
